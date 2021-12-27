@@ -1,4 +1,4 @@
-package Day1_5
+package day1_5
 
 import java.lang.IllegalArgumentException
 
