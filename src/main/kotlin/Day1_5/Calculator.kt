@@ -1,3 +1,5 @@
+package Day1_5
+
 import java.lang.IllegalArgumentException
 
 class Calculator {
